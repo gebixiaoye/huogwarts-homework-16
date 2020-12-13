@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/login/.idea/login.iml" filepath="$USER_HOME$/PycharmProjects/login/.idea/login.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/测试用例模块化/.idea/测试用例模块化.iml" filepath="$USER_HOME$/PycharmProjects/测试用例模块化/.idea/测试用例模块化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/练习脚本.iml" filepath="$PROJECT_DIR$/.idea/练习脚本.iml" />
+    </modules>
+  </component>
+</project>
